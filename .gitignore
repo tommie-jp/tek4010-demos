@@ -1,0 +1,11 @@
+# Compiled binaries
+tek_demo
+tek_surface
+
+# Local VSCode workspace (contains local naming convention)
+*.code-workspace
+
+# Editor / OS noise
+*.swp
+*~
+.DS_Store
