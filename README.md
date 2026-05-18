@@ -588,3 +588,4 @@ For one more level of fun, dump the output to a file with `> demo.tek` and play 
 - [Tektronix 4010 — Wikipedia (日本語)](https://ja.wikipedia.org/wiki/Tektronix_4010)
 - [`rricharz/Tek4010`](https://github.com/rricharz/Tek4010) — Tektronix 4010/4014 emulator that reproduces the original drawing speed and phosphor afterglow
 - xterm `-t` flag — built-in Tek 4014 emulator (`man xterm`, section "Tektronix Window")
+- [Tektronix 4012 (YouTube — C K)](https://youtu.be/jOYqXlsgo78) — video of an actual Tektronix 4012 storage-tube terminal (a 401x-series sibling)

@@ -588,3 +588,4 @@ static double f(double x, double y) {
 - [Tektronix 4010 — Wikipedia (English)](https://en.wikipedia.org/wiki/Tektronix_4010)
 - [`rricharz/Tek4010`](https://github.com/rricharz/Tek4010) — 当時の描画速度と残光フェードまで再現する Tektronix 4010/4014 エミュレータ
 - xterm の `-t` フラグ — 組み込みの Tek 4014 エミュレータ (`man xterm` の "Tektronix Window" セクション)
+- [Tektronix 4012 (YouTube — C K)](https://youtu.be/jOYqXlsgo78) — 実機の Tektronix 4012 蓄積管端末 (401x シリーズの兄弟機) の動画
