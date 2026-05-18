@@ -42,8 +42,13 @@ On Ubuntu 24, the easiest path is to speak directly to **xterm's built-in Tek 40
     - [What you should see (3D surface)](#what-you-should-see-3d-surface)
     - [Play with different functions](#play-with-different-functions)
     - [Going further (advanced exercise)](#going-further-advanced-exercise)
+  - [References](#references)
 
 ## Historical Significance of the Tektronix 4010
+
+![A Tektronix 4010 graphics terminal on display at the Museo Didattico di Storia dell'Informatica, Padua, Italy](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tektronix_4010_DSC_0056.jpg/640px-Tektronix_4010_DSC_0056.jpg)
+
+*Photo: Piergiovanna Grossi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tektronix_4010_DSC_0056.jpg)*
 
 The Tektronix 4010, released in **1972**, was **the first graphics terminal that an ordinary engineer could actually afford**. It was the machine that single-handedly pushed the democratization of computer graphics forward, and it is historically very important.
 
@@ -576,3 +581,10 @@ The code above does **no hidden-line removal** (it's see-through). The reason 19
 Add this and you get a true 3D look where far ridges hide behind near ones. It also makes great soft-FPGA exercise material — implementing it in hardware is just an array of per-scanline max/min comparators.
 
 For one more level of fun, dump the output to a file with `> demo.tek` and play it back through the `rricharz/Tek4010` emulator. It reproduces the original drawing speed and phosphor afterglow. Screenshot it and the result is indistinguishable from a photograph of a real Tek 4010.
+
+## References
+
+- [Tektronix 4010 — Wikipedia (English)](https://en.wikipedia.org/wiki/Tektronix_4010)
+- [Tektronix 4010 — Wikipedia (日本語)](https://ja.wikipedia.org/wiki/Tektronix_4010)
+- [`rricharz/Tek4010`](https://github.com/rricharz/Tek4010) — Tektronix 4010/4014 emulator that reproduces the original drawing speed and phosphor afterglow
+- xterm `-t` flag — built-in Tek 4014 emulator (`man xterm`, section "Tektronix Window")
