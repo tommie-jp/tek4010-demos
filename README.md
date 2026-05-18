@@ -46,9 +46,9 @@ On Ubuntu 24, the easiest path is to speak directly to **xterm's built-in Tek 40
 
 ## Historical Significance of the Tektronix 4010
 
-![A Tektronix 4010 graphics terminal on display at the Museo Didattico di Storia dell'Informatica, Padua, Italy](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tektronix_4010_DSC_0056.jpg/640px-Tektronix_4010_DSC_0056.jpg)
+![A Tektronix 4010 graphics terminal on display at the Museo Didattico di Storia dell'Informatica, Padua, Italy](tek4010-padua-museum.jpg)
 
-*Photo: Piergiovanna Grossi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tektronix_4010_DSC_0056.jpg)*
+*Photo: Piergiovanna Grossi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tektronix_4010_DSC_0056.jpg) (resized to 1024px wide).*
 
 The Tektronix 4010, released in **1972**, was **the first graphics terminal that an ordinary engineer could actually afford**. It was the machine that single-handedly pushed the democratization of computer graphics forward, and it is historically very important.
 
